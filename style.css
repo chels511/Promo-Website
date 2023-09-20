@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@font-face {
+	font-family: WhateverFontName;
+	src: url(cool_font.otf);
+}
+body{
+	text-align: center;
+	background-color: orangered;
+	color: beige;
+	font-family: sans-serif;
+}
+
+p{
+	font-family: monospace;
+}
+
+#marvel {
+	font-weight: bold;
+	color: limegreen;
+}
+
+.dc {
+	background-color: black;
+	border-radius: 5px;
+	color: whitesmoke;
+	padding: 30px;
+	width: 40%;
+}
+
+#SpecialCosmos{
+	color: deeppink;
+	font-family: 'Roboto', sans-serif;
+}
+
